@@ -1,4 +1,4 @@
-module github.com/vmorsell/binaural-beats
+module github.com/vmorsell/binaural-beat
 
 go 1.16
 
